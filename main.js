@@ -116,8 +116,8 @@ var styleCache={};
 
 var esrijsonFormat = new EsriJSON();
 
-var serviceUrl = 'http://gisval.labs.addev.ssa.gov:6080/arcgis/rest/services/GETSTATS_VAL/GETSTATS2/MapServer/';
-var layer = 0;
+var serviceUrl = 'https://services.arcgisonline.com/arcgis/rest/services/Demographics/USA_Percent_Over_64/MapServer/';
+var layer = 1;
 
 let offTypes = {
     "ADO": ['11'],
