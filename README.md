@@ -1,4 +1,4 @@
-# OpenLayers Workshop
+# OpenLayers Workshop with Babel setup for IE 11 and older browsers
 
 Welcome to the **OpenLayers Workshop**. This workshop is designed to give you a comprehensive overview of OpenLayers as a web mapping solution.
 
